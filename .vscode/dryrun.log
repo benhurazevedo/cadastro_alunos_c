@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/benhur/dev/cadastro_de_alunos'
+gcc -o cadastro_alunos cadastro_alunos.c -W -Wall -ansi -pedantic
+make: Leaving directory '/home/benhur/dev/cadastro_de_alunos'
+ 
